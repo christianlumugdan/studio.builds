@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Studio (macOS) - Test</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Fri, 05 Jan 2024 17:30:34 +0800</pubDate>
+            <sparkle:version>172</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/christianlumugdan/studio.builds/releases/download/prod/Studio.Test.dmg" length="16871896" type="application/octet-stream" sparkle:edSignature="UHlgwiUwAYrel1yIxMiqUzImcivnrduQgPNmBUSraz8VfkTfGIAofXwkaINq6oRJc0niD1dN6LLwJgrpRyOAAg=="/>
+        </item>
+    </channel>
+</rss>
