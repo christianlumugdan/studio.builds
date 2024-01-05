@@ -10,13 +10,5 @@
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/christianlumugdan/studio.builds/blob/main/Studio%20Test.dmg" length="16872202" type="application/octet-stream" sparkle:edSignature="4Z4BXGtv3YA0PzeAQ74j5pi5Lz3n1pQLGDty978XgCJrmErDV3oD9MboXUAaU72WzmgLbSk4V9kprgeTc2PODg=="/>
         </item>
-        <item>
-            <title>1.0</title>
-            <pubDate>Fri, 05 Jan 2024 17:30:34 +0800</pubDate>
-            <sparkle:version>172</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/christianlumugdan/studio.builds/blob/main/Studio%20Test.dmg" length="16873746" type="application/octet-stream" sparkle:edSignature="rSPGz7RBniOK0SXr+mXox7Vnw8cg4RqH/sRL5JTYHme3H0fbP+R5dkFlTE98+T2q5cJ20aC1/DPsEvkQU4EgDQ=="/>
-        </item>
     </channel>
 </rss>
