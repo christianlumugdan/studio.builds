@@ -4,11 +4,11 @@
         <title>Studio (macOS) - Test</title>
         <item>
             <title>1.0</title>
-            <pubDate>Mon, 29 Jan 2024 10:27:25 +0800</pubDate>
-            <sparkle:version>177</sparkle:version>
+            <pubDate>Mon, 29 Jan 2024 10:54:29 +0800</pubDate>
+            <sparkle:version>178</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://christianlumugdan.github.io/studio.builds/Studio%20Test.dmg" length="16912149" type="application/octet-stream" sparkle:edSignature="ut9pxOdAkKYYybhH6ZxhxmoGkDuOkQcPf0svVc69hxksvmm3PHL1ZokjMr5wOHEqe+yQAIU/d/equBUr9znwAQ=="/>
+            <enclosure url="https://github.com/christianlumugdan/studio.builds/releases/download/prod/Studio.Test.dmg" length="16911681" type="application/octet-stream" sparkle:edSignature="nyAvEE0LcpG6+fp1clx19bu5D6rI0kIUUwinSF4vY06YTBusQoLbw/phzL5C9WwGMafGNNC3PUv0SOa4SdVEAQ=="/>
         </item>
     </channel>
 </rss>
