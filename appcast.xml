@@ -8,7 +8,7 @@
             <sparkle:version>158</sparkle:version>
             <sparkle:shortVersionString>1.41</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/christianlumugdan/studio.builds/releases/download/prod/Studio.Prod.dmg" length="17028867" type="application/octet-stream" sparkle:edSignature="qNmsfI3j4NGe4UpRfHfJR+vMHHXPileVegBJ1KGQmZJ3At6R2BR+CLcazzzS7Y2krmT6e+Wa7k6N2jySjBgeCg=="/>
+            <enclosure url="https://github.com/christianlumugdan/studio.builds/releases/download/prod/StudioApp.dmg" length="17016727" type="application/octet-stream" sparkle:edSignature="rj+vYLFhjOg9HlMp3/FHUBMYpo720U2YIcxEzIkvB4NWGHl0I2IoZGVGsLsXpS0/6PhNzecIGrkRSdkUQfjiCg=="/>
         </item>
     </channel>
 </rss>
